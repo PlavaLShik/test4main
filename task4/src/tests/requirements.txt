@@ -1,0 +1,4 @@
+flask==1.1.2
+requests==2.24.0
+numpy==1.19.2
+pytest==4.3.0
